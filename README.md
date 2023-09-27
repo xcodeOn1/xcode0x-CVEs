@@ -1,7 +1,7 @@
 # xcode0x-CVEs
 Here are all the CVEs I've got.
 
-all this CVE's By xcode0x - Mohamed Almarri 
+By xcode0x - Mohamed Almarri 
 
 LinkedIn : 
 
