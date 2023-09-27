@@ -1,6 +1,15 @@
 # xcode0x-CVEs
 Here are all the CVEs I've got.
 
+all this CVE's By xcode0x - Mohamed Almarri 
+
+linkedin : 
+https://www.linkedin.com/in/mohamed-almarri-52389b252/
+
+Twitter :
+
+https://x.com/xcode0x
+
 # Lits 
 - [CVE-2023-44047-Poc](https://github.com/xcodeOn1/xcode0x-CVEs/blob/main/CVE/CVE-2023-44047.md)
 https://nvd.nist.gov/vuln/detail/CVE-2023-44047
