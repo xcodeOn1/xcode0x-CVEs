@@ -11,7 +11,7 @@ Twitter :
 
 https://x.com/xcode0x
 
-# Lits 
+# List 
 - [CVE-2023-44047-Poc](https://github.com/xcodeOn1/xcode0x-CVEs/blob/main/CVE/CVE-2023-44047.md)
   
 https://nvd.nist.gov/vuln/detail/CVE-2023-44047
